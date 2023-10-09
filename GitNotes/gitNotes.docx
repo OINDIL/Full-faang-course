@@ -1,2 +1,4 @@
 new-item --> to create a new file in powershell
 git restore --stage <file name> --> to unstage any staged file
+git stash --> to go back to the last commit, if any file is not tracked then it will not be stashed
+git stash pop --> to un-stash the stashed files
