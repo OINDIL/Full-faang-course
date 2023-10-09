@@ -1,0 +1,2 @@
+new-item --> to create a new file in powershell
+git restore --stage <file name> --> to unstage any staged file
