@@ -1,1 +1,2 @@
+this is the day two of learning git and github from kunal kushwaha
 hi how are you? I am fine and what about your family?
