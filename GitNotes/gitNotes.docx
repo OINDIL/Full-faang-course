@@ -16,3 +16,10 @@ upstream url --> from where a repo is forked is called upstream url
 
 git remote add upstream <url> --> to use a forked branch and pushing codes to it.
 
+why we use pull requests?  --> to request the author to merge the changes I have made to the original codebase.
+
+git push origin <branch name> --> to push the code in github's specified branch.
+
+why we create branches? --> for every feature or bug we need a new branch so that we can pull request everytime.
+			    one branch means only one pull request.
+
