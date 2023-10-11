@@ -1,6 +1,18 @@
 new-item --> to create a new file in powershell
+
 git restore --stage <file name> --> to unstage any staged file
+
 git stash --> to go back to the last commit, if any file is not tracked then it will not be stashed
+
 git stash pop --> to un-stash the stashed files
+
 git remote add origin <url> --> to add a repo from github , origin means the name we call the url
+
 git branch -M <name of the branch> --> to create a new branch
+
+git merge <branch name> --> to merge and update a branch with the main codebase that'll be used by other users.
+
+upstream url --> from where a repo is forked is called upstream url
+
+git remote add upstream <url> --> to use a forked branch and pushing codes to it.
+
